@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "barometric-pressure:item/barometric_pressure_meter"
+  }
+}
